@@ -14,7 +14,7 @@ python3 -m venv /path/to/your/directory/where/the/script/is
 source ./bin/activate
 ```
 
-### install the dependencies
+### Install the dependencies
 
 ```bash
 pip install -r requirements.txt
