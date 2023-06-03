@@ -28,6 +28,9 @@ python3 ./airdroptokens.py
 
 You should see a response with a timestamp, if there are any errors you will see it too and just ping me in the discord.
 
+# Over the next days im gonna drop instructions on how to run the service in Gnu/Linux and Windows as well
+
+
 ## MacOS
 
 ## create a .plist file
