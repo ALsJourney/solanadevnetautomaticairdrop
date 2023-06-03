@@ -1,0 +1,6 @@
+bin/
+error.log
+lib/
+log.txt
+pyvenv.cfg
+*.sh
